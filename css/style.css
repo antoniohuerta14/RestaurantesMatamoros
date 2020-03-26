@@ -1,0 +1,24 @@
+.fa-home{
+    color: lightslategray;
+}
+.fa-home:hover{
+    color: initial;
+}
+
+.brand-font{
+    font-family: 'Cinzel', serif;
+}
+
+.navbar-light{
+    background-image: url('../img/comida.png');
+    background-color: rgb(255, 199, 182);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: screen;
+    background-size: 100%;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+}
